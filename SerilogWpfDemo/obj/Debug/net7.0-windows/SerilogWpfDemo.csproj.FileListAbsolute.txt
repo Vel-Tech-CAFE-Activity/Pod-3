@@ -1,0 +1,124 @@
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.exe
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.deps.json
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.runtimeconfig.json
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.pdb
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Enrichers.Thread.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Filters.Expressions.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Settings.Configuration.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Sinks.Console.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Sinks.File.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Superpower.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.AssemblyReference.cache
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo_MarkupCompile.cache
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.g.resources
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.AssemblyInfoInputs.cache
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.AssemblyInfo.cs
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.CopyComplete
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\refint\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.pdb
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.genruntimeconfig.cache
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\obj\Debug\net7.0-windows\ref\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Desktop\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Expressions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\SerilogWpfDemo.exe
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\SerilogWpfDemo.deps.json
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\SerilogWpfDemo.runtimeconfig.json
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\SerilogWpfDemo.pdb
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Serilog.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Serilog.Enrichers.Thread.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Serilog.Expressions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Serilog.Filters.Expressions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Serilog.Settings.Configuration.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Serilog.Sinks.Console.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Serilog.Sinks.File.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\bin\Debug\net7.0-windows\Superpower.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.AssemblyReference.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo_MarkupCompile.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.g.resources
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.AssemblyInfoInputs.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.AssemblyInfo.cs
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.CopyComplete
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\refint\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.pdb
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\SerilogWpfDemo.genruntimeconfig.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo - Copy\obj\Debug\net7.0-windows\ref\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.exe
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.deps.json
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.runtimeconfig.json
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\SerilogWpfDemo.pdb
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Enrichers.Thread.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Expressions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Extensions.Logging.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Filters.Expressions.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Settings.Configuration.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Sinks.Console.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Serilog.Sinks.File.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\Superpower.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\LoggingLibrary.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\bin\Debug\net7.0-windows\LoggingLibrary.pdb
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.AssemblyReference.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo_MarkupCompile.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.g.resources
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.AssemblyInfoInputs.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.AssemblyInfo.cs
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.csproj.CopyComplete
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\refint\SerilogWpfDemo.dll
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.pdb
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\SerilogWpfDemo.genruntimeconfig.cache
+C:\Users\anike\OneDrive\Documents\Cognizant\SerilogWpfDemo\obj\Debug\net7.0-windows\ref\SerilogWpfDemo.dll
