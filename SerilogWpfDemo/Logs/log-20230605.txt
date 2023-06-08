@@ -1,0 +1,11 @@
+2023-06-05 12:02:54.734 +05:30 [INF] Application started
+2023-06-05 12:04:05.271 +05:30 [ERR] Error during operation: Operation 3
+System.InvalidOperationException: Error during operation (InvalidOperationException).
+   at SerilogWpfDemo.MainWindow.PerformOperationAsync() in C:\Users\anike\OneDrive\Documents\GitHub\SeriLog-Logger\SerilogWpfDemo\MainWindow.xaml.cs:line 54
+   at SerilogWpfDemo.MainWindow.LogButton_Click(Object sender, RoutedEventArgs e) in C:\Users\anike\OneDrive\Documents\GitHub\SeriLog-Logger\SerilogWpfDemo\MainWindow.xaml.cs:line 29
+2023-06-05 12:17:59.276 +05:30 [INF] Application started
+2023-06-05 12:20:45.589 +05:30 [ERR] Error during operation: Operation 3
+System.InvalidOperationException: Error during operation (InvalidOperationException).
+   at SerilogWpfDemo.MainWindow.PerformOperationAsync() in C:\Users\anike\OneDrive\Documents\GitHub\SeriLog-Logger\SerilogWpfDemo\MainWindow.xaml.cs:line 54
+   at SerilogWpfDemo.MainWindow.LogButton_Click(Object sender, RoutedEventArgs e) in C:\Users\anike\OneDrive\Documents\GitHub\SeriLog-Logger\SerilogWpfDemo\MainWindow.xaml.cs:line 29
+2023-06-05 12:36:41.422 +05:30 [INF] Application is shutting down
