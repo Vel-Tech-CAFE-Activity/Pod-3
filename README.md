@@ -1,49 +1,47 @@
-# SerilogWpfDemo and LoggingLibrary
+# LogPlugin Application
 
-This repository contains two projects:
 
-1. **SerilogWpfDemo**: A WPF application that demonstrates how to use Serilog for logging in a WPF application.
-2. **LoggingLibrary**: A .NET class library that provides a reusable logging manager built on top of Serilog.
+## Overview
 
-## SerilogWpfDemo
+LogPlugin is a dynamic, robust logging application. Developed using .NET 6.0 and the Serilog library, LogPlugin is designed to handle complex logging scenarios and deliver detailed insights into your application's performance and behavior.
 
-This WPF application demonstrates how to use Serilog for logging events and exceptions. It includes a simple user interface with a button to perform an operation, which logs messages and exceptions based on the operation's outcome.
+## Features
 
-### Getting Started
+- Utilizes Serilog for extensive and feature-rich logging data
+- Captures and records detailed logs concerning user, system, and process information
+- Supports seven different levels of log events, giving a fine-grained control over log management
+- Concurrently saves logs in separate files and a Microsoft SQL Server database for easy access and redundancy
+- Provides a user-friendly UI for in-depth log analysis and filtering
+- Incorporates security features, including API key middleware to ensure secure log data access
 
-To build and run the SerilogWpfDemo application:
+## Installation
 
-1. Clone this repository.
-2. Open the solution file in Visual Studio.
-3. Set the `SerilogWpfDemo` project as the startup project.
-4. Press F5 or click the "Start" button in Visual Studio.
+To install and run the application:
 
-### Usage
+1. Clone the repository using `git clone https://github.com/aniket-kr1030/LogPlugin.git`
+2. Navigate to the directory of the cloned repository
+3. Run `dotnet build` to build the application
+4. Run `dotnet run` to start the application
+5. The application will be hosted at `https://localhost:5001` or `http://localhost:5000`
 
-Click the "Perform Operation" button to simulate an operation. The application will log messages and exceptions depending on the operation's outcome.
+## Usage
 
-## LoggingLibrary
+After starting the application, you can navigate to `https://localhost:5001` (or `http://localhost:5000`) in your web browser. The UI will show the logs recorded by the application. You can filter the logs by various parameters such as time, level, and source.
 
-LoggingLibrary is a .NET class library that provides a reusable logging manager built on top of Serilog. It can be used in other applications to simplify logging configuration and usage.
+Logs are saved into the Microsoft SQL Server database and also in daily log files under the `/Logs` directory in the application root. Old logs are automatically purged to save storage.
 
-### Getting Started
+## Tests
 
-To use the LoggingLibrary in your project:
+LogPlugin uses Xunit for unit testing. To execute the tests, navigate to the project root directory in your terminal and run `dotnet test`.
 
-1. Clone this repository.
-2. Add a reference to the `LoggingLibrary` project in your solution.
-3. Update your application code to use the `LoggerManager` class for logging.
+## Database Maintenance
 
-### Usage
-
-Create an instance of the `LoggerManager` class and use its methods to log messages with different log levels:
-
-- `LogInformation(string messageTemplate, params object[] propertyValues)`
-- `LogDebug(string messageTemplate, params object[] propertyValues)`
-- `LogError(Exception exception, string messageTemplate, params object[] propertyValues)`
-
-Call the `CloseAndFlush()` method to flush any remaining log entries and close the logger when your application exits.
+The application includes a built-in scheduler that periodically deletes old data from the Microsoft SQL Server database and old log files. This ensures the application storage remains optimized.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions, feedback, or issues, please feel free to reach us at `aniket,kr1030@gmail.com`.
