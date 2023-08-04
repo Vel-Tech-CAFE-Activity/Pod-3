@@ -1,0 +1,86 @@
+[
+    {
+        "Message": "The application launched successfully.",
+        "Severity": "Information"
+    },
+    {
+        "Message": "User successfully logged in.",
+        "Severity": "Information"
+    },
+    {
+        "Message": "Data successfully saved in the database.",
+        "Severity": "Information"
+    },
+    {
+        "Message": "Attempting to connect to database.",
+        "Severity": "Debug"
+    },
+    {
+        "Message": "Application configuration loaded from file.",
+        "Severity": "Debug"
+    },
+    {
+        "Message": "API call to third-party service initiated.",
+        "Severity": "Debug"
+    },
+    {
+        "Message": "Database connection took longer than expected.",
+        "Severity": "Warning"
+    },
+    {
+        "Message": "Low disk space detected.",
+        "Severity": "Warning"
+    },
+    {
+        "Message": "User password is nearing expiration.",
+        "Severity": "Warning"
+    },
+    {
+        "Message": "Failed to write data to the database.",
+        "Severity": "Error"
+    },
+    {
+        "Message": "Error in processing user request.",
+        "Severity": "Error"
+    },
+    {
+        "Message": "API call to third-party service failed.",
+        "Severity": "Error"
+    },
+    {
+        "Message": "Application crashed during startup.",
+        "Severity": "Critical"
+    },
+    {
+        "Message": "Data corruption detected in the database.",
+        "Severity": "Critical"
+    },
+    {
+        "Message": "Security breach detected.",
+        "Severity": "Critical"
+    },
+    {
+        "Message": "Heartbeat check at 12:00 pm",
+        "Severity": "None"
+    },
+    {
+        "Message": "Daily maintenance task initiated.",
+        "Severity": "None"
+    },
+    {
+        "Message": "Automated report generation started.",
+        "Severity": "None"
+    },
+    {
+        "Message": "Entered method CalculateRevenue in FinanceModule.",
+        "Severity": "Trace"
+    },
+    {
+        "Message": "Query executed: SELECT * FROM Users.",
+        "Severity": "Trace"
+    },
+    {
+        "Message": "Starting thread for data processing.",
+        "Severity": "Trace"
+    }
+]
