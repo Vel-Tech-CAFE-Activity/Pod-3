@@ -14,7 +14,7 @@ LogPlugin is a dynamic, robust logging application. Developed using .NET 6.0 and
 - Provides a user-friendly UI for in-depth log analysis and filtering
 - Incorporates security features, including API key middleware to ensure secure log data access
 
-## Info:
+## Info
 
 There two applications in the repository.
 1. LogGenerator : For testing the main logging application
