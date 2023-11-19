@@ -3602,14 +3602,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\LogPlugin\\LogPlugin.csproj",
+      "projectUniqueName": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\LogPlugin.csproj",
       "projectName": "LogPlugin",
-      "projectPath": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\LogPlugin\\LogPlugin.csproj",
+      "projectPath": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\LogPlugin.csproj",
       "packagesPath": "C:\\Users\\anike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\LogPlugin\\obj\\",
+      "outputPath": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\LogPlugin\\NuGet.Config",
+        "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\NuGet.Config",
         "C:\\Users\\anike\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3687,7 +3687,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

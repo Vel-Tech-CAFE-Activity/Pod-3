@@ -16,7 +16,7 @@ namespace LoggerPlugin.Middleware
         }
 
         public async Task InvokeAsync(HttpContext context)
-        {
+        {   
             if (context.Request.Path.ToString() == "/logging")
             {
 

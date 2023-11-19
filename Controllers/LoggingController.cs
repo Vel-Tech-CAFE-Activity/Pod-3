@@ -30,13 +30,27 @@ namespace LoggerPlugin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> PostLogEntry([FromBody] LoggerPlugin.Models.LogEvent logEvent)
-        {
+        public async Task<IActionResult> PostLogEntry([FromBody] LogEventDto logEventDto)
+            {
+                var logEvent = new LoggerPlugin.Models.LogEvent
+                {
+                    Message = logEventDto.Message,
+                    Level = logEventDto.Level,
+                    UserInformation = logEventDto.UserInformation,
+                    SystemInformation = logEventDto.SystemInformation,
+                    ProcessInformation = logEventDto.ProcessInformation,
+                    Timestamp = DateTime.UtcNow
+                };
             try
             {
                 // Save to database
                 _context.LogEvents.Add(logEvent);
                 await _context.SaveChangesAsync();
+
+
+                if(logEvent.Level == null){
+                    return StatusCode(500, "Internal server error");
+                }
 
                 // Save to file based on the log level
                 switch (logEvent.Level.ToLower())
