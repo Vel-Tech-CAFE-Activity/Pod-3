@@ -3602,15 +3602,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anike\\Downloads\\LogPlugin-main\\LogPlugin-main\\LogPlugin.csproj",
+      "projectUniqueName": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\LogPlugin.csproj",
       "projectName": "LogPlugin",
-      "projectPath": "C:\\Users\\anike\\Downloads\\LogPlugin-main\\LogPlugin-main\\LogPlugin.csproj",
+      "projectPath": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\LogPlugin.csproj",
       "packagesPath": "C:\\Users\\anike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anike\\Downloads\\LogPlugin-main\\LogPlugin-main\\obj\\",
+      "outputPath": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anike\\Downloads\\LogPlugin-main\\LogPlugin-main\\NuGet.Config",
-        "C:\\Users\\anike\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\NuGet.Config",
+        "C:\\Users\\anike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -3686,7 +3687,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

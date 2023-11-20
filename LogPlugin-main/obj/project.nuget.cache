@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L76DMRZJ9chHpdr7QeiWEfSRFtcw4vNsyh9Re4govhN34QrWw7oQR/bSZNLvw4lyD4Mwy6OrHInHx1FsZVwjkA==",
+  "dgSpecHash": "04yzgjqaQNDvr/rIaFd/CEeWlOp6if0pN5n0NrcgCUNdOI2EHY+SM6Rk5r48/FxtHRwwQo9fa4ifuydFH4FmDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anike\\Downloads\\LogPlugin-main\\LogPlugin-main\\LogPlugin.csproj",
+  "projectFilePath": "C:\\Users\\anike\\OneDrive\\Documents\\GitHub\\Pod-3\\LogPlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anike\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\anike\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
