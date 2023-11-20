@@ -14,23 +14,15 @@ LogPlugin is a dynamic, robust logging application. Developed using .NET 6.0 and
 - Provides a user-friendly UI for in-depth log analysis and filtering
 - Incorporates security features, including API key middleware to ensure secure log data access
 
-## Info
-
-There two applications in the repository.
-1. LogGenerator : For testing the main logging application
-2. LogPlugin-main : The main logging application
-
-
 ## Installation
 
 To install and run the application:
 
-1. Download and install Microsoft SQL Server
-2. Clone the repository and navigate to `LogPlugin-main`
-3. Change the DB connection string in the appsettings.json file.
-4. Run `dotnet build` to build the application
-5. Run `dotnet run` to start the application
-6. The application will be hosted at `https://localhost:5001` or `http://localhost:5000`
+1. Clone the repository using `git clone https://github.com/aniket-kr1030/LogPlugin.git`
+2. Navigate to the directory of the cloned repository
+3. Run `dotnet build` to build the application
+4. Run `dotnet run` to start the application
+5. The application will be hosted at `https://localhost:5001` or `http://localhost:5000`
 
 ## Usage
 
@@ -52,4 +44,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions, feedback, or issues, please feel free to reach us at `aniket.kr1030@gmail.com`.
+If you have any questions, feedback, or issues, please feel free to reach us at `aniket,kr1030@gmail.com`.
